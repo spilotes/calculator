@@ -72,7 +72,6 @@ body {
   font-size: 1rem;
   color: #007fff;
   display: flex;
-  position: absolute;
   box-shadow: inset 0 2px 7px rgba(0, 0, 0, 0.5);
 }
 
@@ -84,7 +83,6 @@ body {
   font-size: 1rem;
   color: #007fff;
   display: flex;
-  position: absolute;
   box-shadow: inset 0 2px 7px rgba(0, 0, 0, 0.5);
 }
 
