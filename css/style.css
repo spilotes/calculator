@@ -112,7 +112,7 @@ footer .logo-footer {
     font-size: 0.9rem;
   }
 
-    .footer {
+  .footer {
     height: 5rem;
     font-size: 0.9rem;
     bottom: 0;
@@ -121,6 +121,11 @@ footer .logo-footer {
 
   footer .copy {
     margin-left: 1rem;
+  }
+
+  footer .powered {
+    margin-top: -1rem;
+    margin-left: 13.9rem;
   }
 
   footer .logo-footer {
