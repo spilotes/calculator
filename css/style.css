@@ -63,12 +63,12 @@ body {
 }
 
 .grid-container > .output > .previous-operand {
-  font-size: 1.5rem;
+  font-size: 1.9rem;
   color: rgba(255, 255, 255, 0.75);
 }
 
 .grid-container > .output > .current-operand {
-  font-size: 2.5rem;
+  font-size: 1.7rem;
   color: white;
 }
 
@@ -87,5 +87,7 @@ body {
 @media (max-width: 414px) {
   .logo {
     width: 8rem;
+    top: 2rem;
+    left: 15%;
   }
 } ;
